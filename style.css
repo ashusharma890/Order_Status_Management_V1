@@ -1,0 +1,45 @@
+body{
+    background: black url(https://www.teahub.io/photos/full/248-2489100_demon-slayer-wallpaper-hd.jpg);
+    background-size: cover;
+}
+
+.container {
+	margin: 20px auto;
+}
+
+.main-title {
+	text-align: center;
+	margin-bottom: 20px;
+    color: white;
+}
+
+.order-search {
+	width: 500px;
+	margin: auto;
+}
+
+.order-status-block {
+	display: block;
+	margin: 10px auto;
+	width: 600px;
+	pointer-events: none;
+}
+
+.order-status-wrapper {
+	background-color:black;
+    opacity: 0.7;
+	padding: 20px;
+	border-radius: 20px;
+	width: 700px;
+	margin: auto;
+}
+
+.form-control{
+    outline: none;
+    border: none;
+    opacity: 0.1;
+}
+
+#order-id-display{
+    color:rgb(203, 138, 16);
+}
